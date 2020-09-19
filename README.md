@@ -10,4 +10,6 @@ I am Ashiqur Rahman Alif (@aratheunseen). Know more something about me -
 - 📫 You can reach me at  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aratheunseen/)
 
 ## Profile Overview
+![](https://github-readme-stats.vercel.app/api?username=aratheunseen)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aratheunseen&theme=light"/>
