@@ -7,13 +7,12 @@ I am Ashiqur Rahman Alif (@aratheunseen). Know more something about me -
 - 🔭 I’m currently working on my own projects.
 - 🌱 I’m currently learning "Operating System Concepts".
 - 💬 You can ask me about my works.
-- 📫 You can reach me at  [LinkedIn](https://www.linkedin.com/in/aratheunseen/).
 
 ## Profile Overview
-![](https://github-readme-stats.vercel.app/api?username=aratheunseen)
+![Overview](https://github-readme-stats.vercel.app/api?username=aratheunseen)
 
 ## Most Used Languages
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aratheunseen"/>
 
 ## Statistics
-![](https://visitor-badge.glitch.me/badge?page_id=aratheunseen&left_color=blue&right_color=black)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=aratheunseen&left_color=blue&right_color=black)
