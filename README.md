@@ -16,4 +16,4 @@ I am Ashiqur Rahman Alif (@aratheunseen). Know more something about me -
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aratheunseen&theme=nord&show_icons=true&hide_border=true)
 
 ## Statistics
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=aratheunseen&left_color=blue&right_color=black)
+![Page Views](https://visitor-badge.glitch.me/badge?page_id=aratheunseen&left_color=blue&right_color=black)
