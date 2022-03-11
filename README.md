@@ -10,7 +10,6 @@ I am Ashiqur Rahman Alif (@aratheunseen). Know more something about me -
 
 ## Profile Overview
 ![Stats](https://github-readme-stats.vercel.app/api?username=aratheunseen&theme=nord&show_icons=true&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aratheunseen&theme=nord&hide_border=true)
 
 ## Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aratheunseen&theme=nord&show_icons=true&hide_border=true)
