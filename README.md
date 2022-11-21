@@ -5,7 +5,7 @@
 I am Ashiqur Rahman Alif (@aratheunseen). Know more something about me -
 
 - 🔭 I’m currently working on my own projects.
-- 🌱 I’m currently learning "Operating System Concepts".
+- 🌱 I’m currently learning "Digital Image Processing and Compter Graphics".
 - 💬 You can ask me about my works.
 
 ## Profile Overview
