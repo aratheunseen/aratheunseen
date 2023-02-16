@@ -6,7 +6,7 @@ I am Ashiqur Rahman Alif (@aratheunseen). Know more something about me -
 
 - 🔬 I’m currently working on my own projects.
 - 💬 You can ask me about my works.
-- 👀 My GitHub profile has been visited ![Page Views](https://visitor-badge.glitch.me/badge?page_id=aratheunseen&left_color=black&right_color=black&left_text=) times.
+- 👀 My GitHub profile has been visited ![{Counter is Loading...}](https://visitor-badge.glitch.me/badge?page_id=aratheunseen&left_color=black&right_color=black&left_text=) times.
 
 ## Profile Overview
 ![Stats](https://github-readme-stats.vercel.app/api?username=aratheunseen&theme=nord&show_icons=true&hide_border=true&count_private=true&hide=issues)
