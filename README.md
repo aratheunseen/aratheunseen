@@ -1,6 +1,9 @@
+<!--
 ![Header](https://github.com/aratheunseen/aratheunseen/blob/master/src/header.jpg "Header")
-
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+-->
+![header](https://github.com/aratheunseen/aratheunseen/assets/62181222/d5d0d98e-23cd-4ac3-82c3-765217a8b7a3)
+As-salamu alaykum,
 
 I am Ashiqur Rahman Alif (@aratheunseen). Know more something about me -
 
