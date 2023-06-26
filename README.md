@@ -3,7 +3,7 @@
 ## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/8b256daf-19e7-4dbc-8aa5-92bf5b100abe" width="30px"> Hello!
 
 
-I’m Ashiqur Rahman Alif. Here in somthing about me:
+I’m Ashiqur Rahman Alif. Here is somthing about me:
 
 - 🌱 I’m currently learning how to struggle in life
 - 👀 I’m interested in any kind of technology
