@@ -17,6 +17,5 @@ I am Ashiqur Rahman Alif (@aratheunseen). Know more something about me -
 <a href="#">![Total stars](https://img.shields.io/github/stars/aratheunseen?logo=star&label=Unseen%20Stars)</a>
 <a href="#">![Total stars](https://img.shields.io/github/stars/aragle?logo=star&label=SandBox%20Stars)</a>
 
-
-
-$\color{#ff0000}{***}$ This statistics is based on public repositories only on my profile. You can check my experimental projects, archieves and cancelled projects or test things on $\color{#998800}{My~Sandbox}$ ([Click to Visit my sandbox](https://github.com/aragle)).
+✨ This statistic is based on the public repository of my profile only.<br>
+✨ You can see my experimental projects, archive and scrap projects on my $\color{#C2B280}{Sandbox}$ ([Go to Sandbox](https://github.com/aragle)).
