@@ -1,6 +1,7 @@
 ![Header](https://github.com/aratheunseen/aratheunseen/blob/master/src/header.jpg "Header")
 
-## 👋 Hi,
+## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/8b256daf-19e7-4dbc-8aa5-92bf5b100abe" width="30px"> Hello!
+
 
 I’m Ashiqur Rahman Alif. Here in somthing about me:
 
@@ -11,8 +12,7 @@ I’m Ashiqur Rahman Alif. Here in somthing about me:
 - 💬 You can ask me about my works or anything else
 - 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/aratheunseen)
 
-
-## Statistics
+## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/a0027409-548d-4da8-b129-f421f5afb638" width="35px"> Statistics
 
 <a href="#">![Stats Dark](https://github-readme-stats.vercel.app/api?username=aratheunseen&show_icons=true&&show=reviews,discussions_answered&theme=transparent)</a>
 <a href="#">![Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=aratheunseen&theme=transparent&hide_progress=false&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide=CMake)</a>
