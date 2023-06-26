@@ -14,7 +14,7 @@ I’m Ashiqur Rahman Alif. Here in somthing about me:
 
 ## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/a0027409-548d-4da8-b129-f421f5afb638" width="35px"> Statistics
 
-<a href="#">![Stats Dark](https://github-readme-stats.vercel.app/api?username=aratheunseen&show_icons=true&&show=reviews,discussions_answered&theme=transparent)</a>
+<a href="#">![Stats Dark](https://github-readme-stats.vercel.app/api?username=aratheunseen&show_icons=true&hide=stars&show=reviews,discussions_started,discussions_answered&theme=transparent)</a>
 <a href="#">![Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=aratheunseen&theme=transparent&hide_progress=false&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide=CMake)</a>
 
 <a href="https://github.com/aratheunseen/chatgpt-app/releases/download/android/ChatGPT-android.apk">![ChatGPT Downloads](https://img.shields.io/github/downloads/aratheunseen/chatgpt/total?logo=android&label=ChatGPT&color=0E972D)</a>
