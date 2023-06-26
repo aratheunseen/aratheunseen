@@ -1,10 +1,16 @@
 ![Header](https://github.com/aratheunseen/aratheunseen/blob/master/src/header.jpg "Header")
-## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Ashiqur Rahman Alif (@aratheunseen). Know more something about me -
+## 👋 Hi,
 
-- 🔬 I’m currently working on my own projects.
-- 💬 You can ask me about my works.
+I’m Ashiqur Rahman Alif. Here in somthing about me:
+
+- 🌱 I’m currently learning how to struggle in life
+- 👀 I’m interested in any kind of technology
+- 🔬 I’m currently working on my personal projects
+- 💞️ I’m looking to collaborate on web based saas project
+- 💬 You can ask me about my works or anything else
+- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/aratheunseen)
+
 
 ## Statistics
 
