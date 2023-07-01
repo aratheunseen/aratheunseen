@@ -24,4 +24,4 @@ I’m Ashiqur Rahman Alif. Here is somthing about me:
 <a href="#">![Total stars](https://img.shields.io/github/stars/aragle?logo=star&label=SandBox%20Stars)</a>
 
 ✨ This statistic is based on the public repository of my profile only.<br>
-✨ You can see my experimental projects, archive and also scrap projects on my $\color{#C2B280}{SandBox}$ ([Go to SandBox](https://github.com/aragle)).
+✨ You can see my experimental projects, archive and also scrap projects on my $\color{#C2B280}{Sandbox}$ ([Go to Sandbox](https://github.com/aragle)).
