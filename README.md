@@ -8,7 +8,6 @@ I’m Ashiqur Rahman Alif. Here is somthing about me:
 - 🌱 I’m currently learning how to struggle in life
 - 👀 I’m interested in any kind of technology
 - 🔬 I’m currently working on my personal projects
-- 💞️ I’m looking to collaborate on SAAS project
 - 💬 You can ask me about my works or anything else
 - 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/aratheunseen)
 
