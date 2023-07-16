@@ -15,7 +15,7 @@ I’m Ashiqur Rahman Alif. Here is somthing about me:
 <a href="#">![Stats Dark](https://github-readme-stats.vercel.app/api?username=aratheunseen&show_icons=true&hide=&show=reviews,discussions_answered&theme=transparent)</a>
 <a href="#">![Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=aratheunseen&theme=transparent&hide_progress=false&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide=CMake)</a>
 
-<a href="https://github.com/aratheunseen/chatgpt-app/releases/download/android/ChatGPT-android.apk">![ChatGPT Downloads](https://img.shields.io/github/downloads/aratheunseen/chatgpt/total?logo=android&label=ChatGPT&color=0E972D)</a>
+<a href="https://github.com/aratheunseen/ChatGPT-app/releases/download/v1.0.0%2B1/ChatGPT-v1.0.0.apk">![ChatGPT Downloads](https://img.shields.io/github/downloads/aratheunseen/chatgpt/total?logo=android&label=ChatGPT&color=0E972D)</a>
 <a href="https://github.com/aratheunseen/task-manager/releases/download/android/todo-android.apk">![TaskManager Downloads](https://img.shields.io/github/downloads/aratheunseen/task-manager/total?logo=android&label=TaskManager&color=0E972D)</a>
 <a href="#">![ChatGPT Issues](https://img.shields.io/github/issues/aratheunseen/chatgpt?label=Issues)</a>
 <a href="#">![Total stars](https://img.shields.io/github/stars/aratheunseen?logo=star&label=Unseen%20Stars)</a>
