@@ -25,16 +25,15 @@ I’m Ashiqur Rahman Alif. Here is somthing about me:
 - 🔬 I’m currently working on my personal projects
 - 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/aratheunseen)
 
+<!--
 ## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/18030772-29bb-424a-b2c4-6ae05a4a5baa" width="40px"> Skills
-##### Programming Language :
-  [![My Skills](https://skillicons.dev/icons?i=python,cpp)]()
-
-##### Frameworks :
-  [![My Skills](https://skillicons.dev/icons?i=django,flutter,bootstrap,tailwind)](https://skillicons.dev)
-
-##### Database :
-  [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-
+```json
+{
+  "programming" : ["ython","c++"],
+  ""
+}
+```
+-->
 
 ## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/a0027409-548d-4da8-b129-f421f5afb638" width="35px"> Statistics
 
