@@ -1,5 +1,20 @@
 ![Header](https://github.com/aratheunseen/aratheunseen/blob/master/src/header.jpg "Header")
 
+<div id="badges" align=center>
+  <a href="https://www.linkedin.com/in/aratheunseen">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ashiqur Rahman Alif's LinkedIn Badge"/>
+  </a>
+  <a href="httpps://threads.net/@aratheunseen">
+    <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Ashiqur Rahman Alif's Threads Badge"/>
+  </a>
+  <a href="httpps://twitter.com/@aratheunseen">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Ashiqur Rahman Alif's Twitter Badge"/>
+  </a>
+</div>
+<p align=center>
+<img src="https://komarev.com/ghpvc/?username=aratheunseen&style=flat-square&color=blue" alt="Ashiqur Rahman Alif's Profile Hits"/>
+</p>
+
 ## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/8b256daf-19e7-4dbc-8aa5-92bf5b100abe" width="30px"> Hello!
 
 
@@ -9,6 +24,17 @@ I’m Ashiqur Rahman Alif. Here is somthing about me:
 - 👀 I’m interested in any kind of technology
 - 🔬 I’m currently working on my personal projects
 - 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/aratheunseen)
+
+## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/18030772-29bb-424a-b2c4-6ae05a4a5baa" width="40px"> Skills
+##### Programming Language :
+  [![My Skills](https://skillicons.dev/icons?i=python,cpp)]()
+
+##### Frameworks :
+  [![My Skills](https://skillicons.dev/icons?i=django,flutter,bootstrap,tailwind)](https://skillicons.dev)
+
+##### Database :
+  [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+
 
 ## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/a0027409-548d-4da8-b129-f421f5afb638" width="35px"> Statistics
 
