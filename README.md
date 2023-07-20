@@ -11,9 +11,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Ashiqur Rahman Alif's Twitter Badge"/>
   </a>
 </div>
-<p align=center>
-<img src="https://komarev.com/ghpvc/?username=aratheunseen&style=flat-square&color=blue" alt="Ashiqur Rahman Alif's Profile Hits"/>
-</p>
 
 ## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/8b256daf-19e7-4dbc-8aa5-92bf5b100abe" width="30px"> Hello!
 
