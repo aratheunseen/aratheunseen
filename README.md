@@ -4,10 +4,10 @@
   <a href="https://www.linkedin.com/in/aratheunseen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ashiqur Rahman Alif's LinkedIn Badge"/>
   </a>
-  <a href="httpps://threads.net/@aratheunseen">
+  <a href="httpps://threads.net/aratheunseen">
     <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Ashiqur Rahman Alif's Threads Badge"/>
   </a>
-  <a href="httpps://twitter.com/@aratheunseen">
+  <a href="httpps://twitter.com/aratheunseen">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Ashiqur Rahman Alif's Twitter Badge"/>
   </a>
 </div>
