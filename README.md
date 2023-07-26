@@ -1,17 +1,5 @@
 ![Header](https://github.com/aratheunseen/aratheunseen/blob/master/src/header.jpg "Header")
 
-<div id="badges" align=center>
-  <a href="https://www.linkedin.com/in/aratheunseen">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ashiqur Rahman Alif's LinkedIn Badge"/>
-  </a>
-  <a href="https://threads.net/aratheunseen">
-    <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Ashiqur Rahman Alif's Threads Badge"/>
-  </a>
-  <a href="https://twitter.com/aratheunseen">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Ashiqur Rahman Alif's Twitter Badge"/>
-  </a>
-</div>
-
 ## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/8b256daf-19e7-4dbc-8aa5-92bf5b100abe" width="30px"> Hello!
 
 
