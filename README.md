@@ -23,7 +23,7 @@ I’m Ashiqur Rahman Alif. Here is somthing about me:
 ## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/a0027409-548d-4da8-b129-f421f5afb638" width="35px"> Statistics
 
 <a href="#">![Stats Dark](https://github-readme-stats.vercel.app/api?username=aratheunseen&show_icons=true&hide=&show=reviews,discussions_answered&theme=transparent)</a>
-<a href="#">![Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=aratheunseen&theme=transparent&hide_progress=false&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide=CMake)</a>
+<a href="#">![Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=aratheunseen&theme=transparent&hide_progress=false&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide=CMake,html,css)</a>
 
 <a href="https://github.com/aratheunseen/ChatGPT-app/releases/download/v1.0.0%2B1/ChatGPT-v1.0.0.apk">![ChatGPT Downloads](https://img.shields.io/github/downloads/aratheunseen/chatgpt/total?logo=android&label=ChatGPT&color=0E972D)</a>
 <a href="https://github.com/aratheunseen/task-manager/releases/download/android/todo-android.apk">![TaskManager Downloads](https://img.shields.io/github/downloads/aratheunseen/task-manager/total?logo=android&label=TaskManager&color=0E972D)</a>
