@@ -27,7 +27,6 @@ I’m Ashiqur Rahman Alif. Here is somthing about me:
 
 <a href="https://github.com/aratheunseen/ChatGPT-app/releases/download/v1.0.0%2B1/ChatGPT-v1.0.0.apk">![ChatGPT Downloads](https://img.shields.io/github/downloads/aratheunseen/chatgpt/total?logo=android&label=ChatGPT&color=0E972D)</a>
 <a href="https://github.com/aratheunseen/task-manager/releases/download/android/todo-android.apk">![TaskManager Downloads](https://img.shields.io/github/downloads/aratheunseen/task-manager/total?logo=android&label=TaskManager&color=0E972D)</a>
-<a href="#">![ChatGPT Issues](https://img.shields.io/github/issues/aratheunseen/chatgpt?label=Issues)</a>
 <a href="#">![Total stars](https://img.shields.io/github/stars/aratheunseen?logo=star&label=Unseen%20Stars)</a>
 <a href="#">![Total stars](https://img.shields.io/github/stars/aragle?logo=star&label=SandBox%20Stars)</a>
 
