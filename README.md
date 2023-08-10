@@ -5,7 +5,8 @@
 
 I’m Ashiqur Rahman Alif. Here is somthing about me:
 
-- 🌱 I’m currently learning how to struggle in life
+- 🎭 @aratheunseen is not the unseen anymore
+- 🌱 I’m currently learning my favourite stuff
 - 👀 I’m interested in any kind of technology
 - 🔬 I’m currently working on my personal project
 <!-- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/aratheunseen)-->
