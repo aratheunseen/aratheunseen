@@ -8,7 +8,6 @@ I’m Ashiqur Rahman Alif. Here is somthing about me:
 - 🌱 I’m currently learning my favourite stuff
 - 👀 I’m interested in any kind of technology
 - 🔬 I’m currently working on my personal project
-<!-- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/aratheunseen)-->
 
 <!--
 ## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/18030772-29bb-424a-b2c4-6ae05a4a5baa" width="40px"> Skills
