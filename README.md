@@ -9,16 +9,6 @@ I’m Ashiqur Rahman Alif. Here is somthing about me:
 - 👀 I’m interested in any kind of technology
 - 🔬 I’m currently working on my personal project
 
-<!--
-## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/18030772-29bb-424a-b2c4-6ae05a4a5baa" width="40px"> Skills
-```json
-{
-  "programming" : ["ython","c++"],
-  ""
-}
-```
--->
-
 ## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/a0027409-548d-4da8-b129-f421f5afb638" width="35px"> Statistics
 
 <a href="#">![Stats Dark](https://github-readme-stats.vercel.app/api?username=aratheunseen&show_icons=true&hide=&show=reviews,discussions_answered&theme=transparent)</a>
