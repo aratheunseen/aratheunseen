@@ -5,11 +5,6 @@
 
 I’m Ashiqur Rahman Alif. Here is somthing about me:
 
-- 👀 I’m interested in any kind of technology
-- 🔬 I’m currently working on my personal project
-
-## <img src="https://github.com/aratheunseen/aratheunseen/assets/62181222/a0027409-548d-4da8-b129-f421f5afb638" width="35px"> Statistics
-
 <a href="#">![Stats Dark](https://github-readme-stats.vercel.app/api?username=aratheunseen&show_icons=true&hide=&show=reviews,discussions_answered&theme=transparent)</a>
 <a href="#">![Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=aratheunseen&theme=transparent&hide_progress=false&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide=CMake,html,css)</a>
 
