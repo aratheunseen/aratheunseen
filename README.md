@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[Checkout my sandbox repositories](https://github.com/orgs/aragle/repositories)
+[![Checkout my sandbox repositories](https://img.shields.io/badge/Checkout%20my%20sandbox%20repositories-darkgreen.svg?style=for-the-badge)](https://github.com/orgs/aragle/repositories)
 
 </div>
 
