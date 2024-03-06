@@ -1,12 +1,12 @@
 ![Header](https://github.com/aratheunseen/aratheunseen/blob/master/src/header.jpg "Header")
 
-##
-
+<hr>
 <div align="center">
-  
-[![Checkout my sandbox repositories](https://img.shields.io/badge/Checkout%20my%20sandbox%20repositories-white.svg?style=for-the-badge)](https://github.com/orgs/aragle/repositories)
 
+  [![Checkout my sandbox repositories](https://img.shields.io/badge/Checkout%20my%20sandbox%20repositories-white.svg?style=for-the-badge)](https://github.com/orgs/aragle/repositories)
+  
 </div>
+<hr>
 
 <!--div align="center">
 
