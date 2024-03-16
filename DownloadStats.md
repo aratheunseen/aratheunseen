@@ -1,4 +1,4 @@
-# Download Stats
+# Download Statistics
 
 
 ## GitHub Releases (autoupdated)
