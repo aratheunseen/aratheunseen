@@ -1,7 +1,7 @@
 # Download Statistics
 
 
-## GitHub Releases (autoupdated)
+## GitHub Releases (auto-updated)
 
 ### aratheunseen
 [![ChatGPT](https://img.shields.io/github/downloads/aratheunseen/chatgpt-app/total?label=ChatGPT%20App&style=for-the-badge&labelColor=456&logo=android&color=white)](https://github.com/aratheunseen/ChatGPT-app/releases/download/v1.0.0%2B1/ChatGPT-v1.0.0.apk)
