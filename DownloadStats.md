@@ -14,7 +14,3 @@
 
 
 ## PlayStore Releases
-
-NID_Portal_Bangladesh - 
-Birth_Certificate_Verification - 
-eBoardResults_Bangladesh - 
