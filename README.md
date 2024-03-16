@@ -8,6 +8,9 @@
 </div>
 <hr>
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=aratheunseen&theme=nord&show_icons=true&hide_border=true&count_private=true)](#)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aratheunseen&theme=nord&hide_border=true)](#)
+
 <!--div align="center">
 
 <a href="#">![Stats Dark](https://github-readme-stats.vercel.app/api?username=aratheunseen&show_icons=true&hide=&show=&theme=transparent)</a>
