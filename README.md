@@ -13,7 +13,7 @@
 [![Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=aratheunseen&theme=nord&hide_progress=true&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&hide=CMake)](#)
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aratheunseen&theme=nord&hide_border=true)](#)
 
-## Download Statistics
+## Download Statistics (Github Releases Only)
 
 #### aratheunseen
 [![ChatGPT](https://img.shields.io/github/downloads/aratheunseen/chatgpt-app/total?label=ChatGPT%20App&style=for-the-badge&labelColor=456&logo=android&color=white)](https://github.com/aratheunseen/ChatGPT-app)
