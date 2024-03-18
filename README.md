@@ -15,9 +15,6 @@
 
 ## Download Statistics
 
-
-### GitHub Releases (auto-updated)
-
 #### aratheunseen
 [![ChatGPT](https://img.shields.io/github/downloads/aratheunseen/chatgpt-app/total?label=ChatGPT%20App&style=for-the-badge&labelColor=456&logo=android&color=white)](https://github.com/aratheunseen/ChatGPT-app/releases/download/v1.0.0%2B1/ChatGPT-v1.0.0.apk)
 [![Flutter Task Mananer](https://img.shields.io/github/downloads/aratheunseen/flutter-task-manager/total?label=Flutter%20Task%20Manager&style=for-the-badge&labelColor=456&logo=android&color=white)](https://github.com/aratheunseen/flutter-task-manager/releases/download/android/todo-android.apk)
