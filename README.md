@@ -20,9 +20,9 @@
 [![Flutter Task Mananer](https://img.shields.io/github/downloads/aratheunseen/flutter-task-manager/total?label=Flutter%20Task%20Manager&style=for-the-badge&labelColor=456&logo=android&color=white)](https://github.com/aratheunseen/flutter-task-manager)
 
 #### Bornomala Software
-<a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh"><img src="https://img.shields.io/github/downloads/BornomalaSoftware/NID_Portal_Bangladesh/total?style=for-the-badge&label=NID Portal Bangladesh&labelColor=456&logo=android&color=white" style="height:25px;"/></a>
-<a href="https://github.com/BornomalaSoftware/Birth_Certificate_Verification"><img src="https://img.shields.io/github/downloads/BornomalaSoftware/Birth_Certificate_Verification/total?style=for-the-badge&label=Birth Certificate Verification&labelColor=456&logo=android&color=white" style="height:25px;"/></a>
-<a href="https://github.com/BornomalaSoftware/eBoardResults_Bangladesh"><img src="https://img.shields.io/github/downloads/BornomalaSoftware/eBoardResults_Bangladesh/total?style=for-the-badge&label=eBoardResults Bangladesh&labelColor=456&logo=android&color=white" style="height:25px;"/></a>
+<a href="https://github.com/BornomalaSoftware/nid-portal-source-code"><img src="https://img.shields.io/github/downloads/BornomalaSoftware/NID_Portal_Bangladesh/total?style=for-the-badge&label=NID Portal Bangladesh&labelColor=456&logo=android&color=white" style="height:25px;"/></a>
+<a href="https://github.com/BornomalaSoftware/birth-certificate-verification-source-code"><img src="https://img.shields.io/github/downloads/BornomalaSoftware/Birth_Certificate_Verification/total?style=for-the-badge&label=Birth Certificate Verification&labelColor=456&logo=android&color=white" style="height:25px;"/></a>
+<a href="https://github.com/BornomalaSoftware/eboard-results-source-code"><img src="https://img.shields.io/github/downloads/BornomalaSoftware/eBoardResults_Bangladesh/total?style=for-the-badge&label=eBoardResults Bangladesh&labelColor=456&logo=android&color=white" style="height:25px;"/></a>
 
 </div>
 
